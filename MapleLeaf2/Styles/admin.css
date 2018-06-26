@@ -1,0 +1,29 @@
+﻿body {
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    margin-top: 15px;
+    font-size: 2em;
+}
+
+.Tables {
+    font-family: 'Quicksand', sans-serif;
+    border: 1px solid gray;
+}
+
+.Tables th, td {
+    border: 1px solid gray;
+    height: 30px;
+    padding: 8px;
+}
+
+.Tables tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.Tables tr:first-child {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}

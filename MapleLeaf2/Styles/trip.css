@@ -1,0 +1,64 @@
+﻿/************ 2018-02-26 JH **********************/
+h1{
+    font-weight: bolder;
+}
+
+
+ul {
+    list-style-type: none;
+    font-size: 1.2em;  
+}
+
+.panelChild{
+    margin-left: -40px;
+}
+
+
+.tripPanel {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.canadamap {
+    width: 80%;
+    margin-left: 5%;
+}
+
+.boxforMap {
+    border: 1px solid #d1d1d1;
+}
+
+/************ 2018-02-26 ML **********************/
+ul {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+
+ul li a {
+    color: #3f3b31;
+}
+
+ul li a:hover {
+    text-decoration: none;
+    color: #ef9b34;
+}
+
+h1, h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.tripPanel {
+    margin-top: 20px;
+}
+
+.heading {
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+/************ 2018-03-12 ML **********************/
+.maps {
+    width: 100%;
+    height: 400px;
+}

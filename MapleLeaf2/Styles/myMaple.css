@@ -1,0 +1,81 @@
+﻿body {
+
+}
+
+.btnMaple{
+    width: 95%;
+    margin: 0 5px 5px 5px;
+}
+
+.myMapleMenu {
+    background-color: #f1c40f;
+    margin: 1%;
+    padding: 1%;
+}
+
+.myMapleContents {
+    /*background-color: bisque;*/
+    margin: 1%;
+    height: 600px;
+    width: 800px;
+}
+
+.MainFrame {
+    width: 100%;
+    height: 700px;
+    border: 1px solid #ecf0f1;
+}
+
+.Panels {
+    /*position: absolute;
+    top:auto;*/
+    border: solid 1px #95a5a6;
+    background-color: ButtonFace;
+    overflow: auto;
+}
+
+.Labels {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.TextBoxes {
+    position: absolute;
+    border: solid 1px #002594;
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.Validdation {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    text-align: left;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.Buttons {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    height: 1.2em;
+}
+
+.Messages {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    background-color: #b6ff00;
+    color: #002594;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}

@@ -1,0 +1,143 @@
+﻿/************ 2018-02-26 Vincent **********************/
+/***************** navigation section *****************/
+
+
+
+/***************** 2018-02-25 JH *******************/
+/***************** footer section *****************/
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #95a5a6;
+}
+
+#footer {
+    background-color: #002d47;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-size: 110%;
+    color: #fff;
+}
+
+#footer-copyright {
+    font-weight: normal;
+    width: 90%;
+    margin: auto;
+    padding-top: 2%;
+    border-bottom: 1px solid grey;
+}
+
+#footer .col-sm-2 {
+    text-align: center;
+}
+
+.footer-title {
+    color: #fff;
+}
+
+#footer a:link {
+    color: #fff;
+}
+
+#footer a:visited {
+    color: #95a5a6;
+}
+
+#footer a:hover {
+    color: #27ae60;
+    text-decoration-line: none;
+}
+
+#footer ul {
+    list-style-type: none;
+    font-size: 0.9em;
+}
+
+#footer h3 {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+/************ 2018-02-26 Yeonsil **********************/
+/***************** trip info section *****************/
+
+.two-col {
+    float: left;
+    width: 50%;
+}
+
+.tripInfo {
+    width: 80%;
+    height: 70%;
+    padding: 1%;
+}
+
+ul li {
+    list-style:none;
+}
+
+.two-col h2 {
+    font-weight:bold;
+    margin-left: 5%;
+}
+
+.members {
+    border:1px solid gray;
+    line-height:200%;
+    border-radius: 5px;
+    padding: 5%;
+    margin: 5%;
+}
+
+.two-col {
+    margin-top: 3%;
+}
+
+.two-col h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.memBtn {
+    background-color: #002d47;
+    color: white;
+    padding: 4%;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+    font-weight: bold;
+    margin-left: 25%;
+}
+/************ 2018-04-18 Minah **********************/
+/***************** Members Wanted section *****************/
+.cardHeader {
+    background-color: cornflowerblue;
+    color: #fff;
+    font-weight: bold;
+}
+
+.list-group-item {
+    font-family: 'Quicksand', sans-serif;
+    /*font-family: 'Oswald', sans-serif;*/
+    font-size: 1.5em;
+}
+
+.list-group-item a {
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.list-group-item {
+    transition: all 0.5s;
+}
+
+.list-group-item:hover {
+    background-color: antiquewhite;
+    color: #fff;
+}
+
+.cardContainer {
+    margin-left: 150px;
+}
+
+.cardContainer h2 {
+    text-align: right;
+}
